@@ -1,0 +1,9 @@
+C:/Users/Rooze/Documents/WinterBootcamp/open-cv project/build/CMakeFiles/NightlyMemoryCheck.dir
+C:/Users/Rooze/Documents/WinterBootcamp/open-cv project/build/CMakeFiles/Experimental.dir
+C:/Users/Rooze/Documents/WinterBootcamp/open-cv project/build/CMakeFiles/Continuous.dir
+C:/Users/Rooze/Documents/WinterBootcamp/open-cv project/build/CMakeFiles/Nightly.dir
+C:/Users/Rooze/Documents/WinterBootcamp/open-cv project/build/CMakeFiles/test-cv.dir
+C:/Users/Rooze/Documents/WinterBootcamp/open-cv project/build/CMakeFiles/PACKAGE.dir
+C:/Users/Rooze/Documents/WinterBootcamp/open-cv project/build/CMakeFiles/RUN_TESTS.dir
+C:/Users/Rooze/Documents/WinterBootcamp/open-cv project/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Rooze/Documents/WinterBootcamp/open-cv project/build/CMakeFiles/ZERO_CHECK.dir
